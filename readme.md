@@ -131,6 +131,9 @@ Once you’ve exported the `.gguf` model, you can use:
 - **Llama.cpp** → For CPU/GPU-based inference on any platform.  
 - **LM Studio** → For GUI-based testing and chat interaction.
 
+<img width="2339" height="913" alt="image" src="https://github.com/user-attachments/assets/584331a5-3184-4162-a398-10758b1e5054" />
+
+
 ---
 
 📌 **Author:** *Ujjwal Agrahari*  
